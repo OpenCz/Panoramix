@@ -9,7 +9,8 @@
 
 void print_usage(void)
 {
-    printf("USAGE: ./panoramix <nb_villagers> <pot_size> <nb_fights> <nb_refills>");
+    printf("USAGE: ./panoramix <nb_villagers> <pot_size> ");
+    printf("<nb_fights> <nb_refills>\n");
 }
 
 int main(int argc, char **argv)

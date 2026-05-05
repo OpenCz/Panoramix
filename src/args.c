@@ -50,5 +50,3 @@ panoramix_t *parse_arg(char **argv, panoramix_t *stock)
     stock->servings = stock->pot_size;
     return stock;
 }
-
-
