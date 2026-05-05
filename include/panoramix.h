@@ -17,6 +17,7 @@ typedef struct panoramix_s {
     int pot_size;
     int nb_fights;
     int nb_refills;
+    int servings;
 } panoramix_t;
 
 typedef struct parse_s {
